@@ -94,6 +94,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Css\StyleSheet1.css" />
     <Content Include="Java\JavaScript.js" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
